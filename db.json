@@ -48,54 +48,7 @@
             "colour": "yellow",
             "brand": "levis"
         },
-        {
-            "id": 9,
-            "imgUrl": "https://img.faballey.com/images/product/TOP04860Z/1.jpg",
-            "price": "2040",
-            "size": "large",
-            "colour": "white",
-            "brand": "shein"
-        },
-        {
-            "id": 10,
-            "imgUrl": "https://assets.ajio.com/medias/sys_master/root/20211207/0HMN/61af9213aeb2690110fd6ba2/-473Wx593H-462559451-multi-MODEL.jpg",
-            "price": "1000",
-            "size": "small",
-            "colour": "skyblue",
-            "brand": "ajio"
-        },
-        {
-            "id": 5,
-            "imgUrl": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/productimage/2021/2/18/07b7a314-decd-421a-b447-01b2411e24e61613643428870-1.jpg",
-            "price": "2300",
-            "size": "small",
-            "colour": "black",
-            "brand": "ajio"
-        },
-        {
-            "id": 6,
-            "imgUrl": "https://img.faballey.com/images/Product/TOP05298Z/1.jpg",
-            "price": "2000",
-            "size": "large",
-            "colour": "pink",
-            "brand": "shein"
-        },
-        {
-            "id": 11,
-            "imgUrl": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010433681-Blue-Navy-1000010433681_01-2100.jpg",
-            "price": "1600",
-            "size": "small",
-            "colour": "blue",
-            "brand": "gucci"
-        },
-        {
-            "id": 12,
-            "imgUrl": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010444516-Grey-Sage-1000010444516_01-2100.jpg",
-            "price": "1200",
-            "size": "extra large",
-            "colour": "skyblue",
-            "brand": "gucci"
-        }
+        
     ],
     "kurtis": [
         {
